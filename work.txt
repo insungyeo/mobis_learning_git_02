@@ -1,6 +1,6 @@
-left 3
+left 4
 2
-left 3
+left 4
 4
 5
 6
