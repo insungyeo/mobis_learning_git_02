@@ -1,10 +1,7 @@
 left2
 2
-<<<<<<< HEAD
 left3
-=======
 right2
->>>>>>> origin/master
 4
 5
 6
