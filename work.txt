@@ -1,4 +1,4 @@
-right 1
+left 3
 2
 3
 right 2
